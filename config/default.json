@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb://Aiiyan123:Aiiyan123@devconnector-shard-00-00.na5kd.mongodb.net:27017,devconnector-shard-00-01.na5kd.mongodb.net:27017,devconnector-shard-00-02.na5kd.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-cq6diz-shard-0&authSource=admin&retryWrites=true&w=majority" 
+}
