@@ -3,6 +3,7 @@ const connectDB = require('./config/db');
 
 const app = express();
 
+//const { check, validationResult } = require('express-validator/check');
 //connect database
 connectDB();
 
